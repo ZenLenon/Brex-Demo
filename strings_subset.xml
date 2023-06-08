@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY app_name "Omnipod&#160;5">
+    <!ENTITY non_breaking_space "\u00A0">
+    <!ENTITY setup_link "www.omnipod.com/setup">
+    ]>
+<resources>
+    <string name="app_name">&app_name;</string>
+    <string name="bg_item_string_format" translatable="false">%1$s&non_breaking_space;%2$s</string>
+    <string name="mfg_sim_card_inserted">The &app_name; PDM cannot be used with a SIM card. To use your PDM:\n\n1. Remove the battery\n2. Remove the SIM card\n3. Reinstall the battery and restart the PDM.</string>
+    <string name="empty_reservoir_alarm"><b>Pod Out of Insulin</b></string>
+    <string name="auto_off_alarm" translatable="false">@string/pod_shut_off</string>
+    <string name="pdm_alarm">&app_name; App error</string>
+    <string name="auto_off_title" translatable="false">@string/pod_shut_off</string>
+    <string name="auto_off_text">The &app_name; <![CDATA[app has not communicated with your Pod in the last %1$s hours. Tap <b>OK</b> to communicate with your Pod.]]></string>
+    <string name="dialog_basal_delete_text">Are you sure you want to delete the %1$s Basal Program? <![CDATA[<br/><br/> <font color="]]>%2$s<![CDATA["><i>(This cannot be undone.)</i></font>]]></string>
+    <string name="format_pod_info_insulin_remaining">%.0f</string>
+    <string name="format_time_am" translatable="false">%1$s:%2$02d AM</string>
+    <string name="time_remaining">Time Remaining: %d Min</string>
+    <string name="sensor_warming">Warming&#8230;</string>
+    <string name="cgm_home_early_attenuation_dialog_body">Your sensor glucose value is unavailable. Check back at %s</string>
+    <plurals name="dialog_title_suspend_insulin">
+        <item quantity="one">Pause insulin delivery for %1%s&non_breaking_space;hr?</item>
+        <item quantity="other">Pause insulin delivery for %1%s&non_breaking_space;hrs?</item>
+    </plurals>
+   <string name="last_bolus_lost_reason">When the Pod was discarded, it was unable to confirm how
+        much of the last bolus was delivered. The last bolus unit value is the amount that was
+        scheduled to be delivered.</string>
+    </plurals>
+    <string name="temp_basal_summary_perc_increase_details">Increase &lt; %1$d %% for %2$s</string>
+    <string name="temp_basal_summary_perc_decrease_details">Decrease &gt; %1$d %% for %2$s</string>
+    <string name="exit_cl_message_2"><![CDATA[Use a meter to check your BG:<ul><li>&nbsp;If low BG confirmed, consider treatment</li><li>&nbsp;If high BG confirmed, check infusion site and ketones</li></ul>]]>&app_name; must switch to Manual Mode.</string>   
+    <string name="update_time_zone_text">
+        &lt;b&gt;Your device time zone:&lt;/b&gt; &lt;br&gt;
+        %1$s &lt;br&gt; &lt;br&gt;
+        &lt;b&gt;Your insulin delivery time zone:&lt;/b&gt; &lt;br&gt;
+        %2$s &lt;br&gt; &lt;br&gt;
+        Update insulin delivery to your device time zone?</string>  
+    <string name="empty_dialog_builder_message_body_with_extras">"%s"</string>
+    <string name="plain_unresolved_reference" translatable="false">{@string/nonexistent_name} is an example of nonexistent reference.</string>
+    <string name="fill_out_form">Fill out a form at <b>&setup_link;</b> to get a call back</string>
+</resources>
