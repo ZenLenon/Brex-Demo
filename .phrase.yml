@@ -1,5 +1,5 @@
 phrase:
-  access_token: 00e2859fcbef2731816baab668d188b9d94dd2d59aac400f26059768fdf93556
+  access_token: 5beb96b40c9ba8156509666ac9296a73c04931e0bc20762855bfe3b05e8b8841
   project_id: 3b344bb0c4178955d38105deca4ccbea
   file_format: strings 
   push:
@@ -13,7 +13,7 @@ phrase:
     targets:
       - file: ja.strings
         params:
-          locale_id: ja
+          locale_id: 081114eacb0a89b8ef526b35eb13b95c
       - file: fr.strings
         params:
-          locale_id: fr
+          locale_id: f2350c7949f48a29ea94cb98ca509aa8
