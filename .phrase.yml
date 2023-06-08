@@ -6,11 +6,6 @@ phrase:
     sources:
       - file: en.strings
         params:
-          locale_id: e0b63971e25b1ec83333f5aea57cf5fb
-          update_translations: true
-          autotranslate: true
-      - file: en.strings
-        params:
           locale_id: b61cb8708e16acc3098aa1baaed702dc
           update_translations: true
           autotranslate: true
