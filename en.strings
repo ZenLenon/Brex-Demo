@@ -1,3 +1,4 @@
+"welcome.page" = "Hello, [Name]!";
 "app.cart" = "Minimal Stand";
 "app.cart1" = "Add to cart";
 "app.cart10" = "Forgot Password";
@@ -9,7 +10,6 @@
 "app.cart352" = "Welcome back!";
 "app.cart3623" = "Welcome back!";
 "app.cart4" = "This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ";
-
 "app.cart5" = "MAKE YOUR HOME EVEN MORE BEAUTIFUL";
 "app.cart6" = "The best place to discover wonderful furniture to make your home beautiful";
 /* Add style guide, SME or any related context in here to help the translator. */
@@ -20,7 +20,6 @@
 "ATM & BRANCH" = "ATM & BRANCH";
 "Contact" = "Contact";
 "Deposit products provided by JPMorgan Chase Bank Membe FDIC Credit Cards are issued by Chase Bank USA @ JPMorgan Chase & Co." = "Deposit products provided by JPMorgan Chase Bank Membe FDIC\nCredit Cards are issued by Chase Bank USA @ JPMorgan Chase & Co.";
-
 "Enter your password" = "Enter your password";
 "Enter your username" = "Enter your username";
 "Equal Opportunity Lender" = "Equal Opportunity Lender";
@@ -30,5 +29,5 @@
 "LOGIN" = "Login";
 "Privacy" = "Privacy";
 "Remember me" = "Remember me";
-"Use Toke" = "Use Toke";
+"Use Token" = "Use Token";
 
