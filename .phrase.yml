@@ -6,14 +6,14 @@ phrase:
     sources:
       - file: en.strings
         params:
-          locale_id: b61cb8708e16acc3098aa1baaed702dc
+          locale_id: bb44d618d2cf371133837fbc05250719
           update_translations: true
           autotranslate: true
   pull:
     targets:
       - file: ja.strings
         params:
-          locale_id: 081114eacb0a89b8ef526b35eb13b95c
+          locale_id: 1de65fadaee5697dcbe09c75def7bc6d
       - file: fr.strings
         params:
           locale_id: f2350c7949f48a29ea94cb98ca509aa8
