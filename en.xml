@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE resources [
-    <!ENTITY app_name "Omnipod&#160;5">
-    <!ENTITY non_breaking_space "\u00A0">
-    <!ENTITY setup_link "www.omnipod.com/setup">
-    ]>
 <resources>
     <string name="app_name">&app_name;</string>
     <string name="bg_item_string_format" translatable="false">%1$s&non_breaking_space;%2$s</string>
