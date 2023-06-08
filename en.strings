@@ -1,6 +1,8 @@
+"welcome.page.2" = "Welcome Home";
+"welcome.page.1" = "This is a test";
 "welcome.page" = "Hello, [Name]!";
-"app.cart" = "Minimal Stand";
-"app.cart1" = "Add to cart";
+"app.cart" = "Minimal Stand!";
+"app.cart1" = "Add to cart!";
 "app.cart10" = "Forgot Password";
 "app.cart11" = "Sign up";
 "app.cart12" = "SIGN IN";
