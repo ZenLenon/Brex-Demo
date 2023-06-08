@@ -1,19 +1,19 @@
 phrase:
   access_token: 00e2859fcbef2731816baab668d188b9d94dd2d59aac400f26059768fdf93556
-  project_id: f8ddac7e4d9eb87ccb9c3da2b66af64e
-  file_format: react_nested_json  
+  project_id: 3b344bb0c4178955d38105deca4ccbea
+  file_format: strings 
   push:
     sources:
-      - file: ./activationEmail-en.json
+      - file: en.strings
         params:
           locale_id: en
           update_translations: true
           autotranslate: true
   pull:
     targets:
-      - file: ./values-de/activationEmail-en.json
+      - file: ja.strings
         params:
-          locale_id: de
-      - file: ./values-fr/activationEmail-en.json
+          locale_id: ja
+      - file: fr.strings
         params:
           locale_id: fr
